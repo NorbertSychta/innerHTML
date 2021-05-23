@@ -1,0 +1,48 @@
+body
+{
+    background-color: #d4c279;
+}
+
+h1
+{
+    color:white;
+    position: relative;
+    text-align: center;
+    font-family: Arial;
+    font-size: 33px;
+}
+
+h2
+{
+    color:white;
+    position: relative;
+    left: 50px;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+p
+{
+    color:white;
+    position: relative;
+    left: 50px;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.button
+{
+    position: relative;
+    left: 50px;
+}
+
+.div
+{
+    color:white;
+    position: relative;
+    left: 50px;
+    font-family: Arial;
+    font-size: 15px;
+    top: 15px;
+    bottom: 15px;
+}
